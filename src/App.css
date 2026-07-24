@@ -1,0 +1,5 @@
+.extra{
+  font-size: small;
+  display:flex;
+  justify-content: space-between;
+}
